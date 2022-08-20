@@ -10,6 +10,7 @@
   align-items: flex-start;
   flex-wrap: wrap;
   margin-top: 2rem;
+  background: var(--primary-color);
 }
 
 .app__profile-item {
@@ -19,6 +20,8 @@
   align-items: flex-start;
   flex-direction: column;
   margin: 2rem;
+  background: var(--white-color);
+  padding: 5px;
 
   img {
     width: 100%;
