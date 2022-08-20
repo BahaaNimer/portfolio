@@ -87,6 +87,7 @@
   justify-content: flex-start;
   align-items: flex-start;
   flex-direction: column;
+  padding: 5px;
 
   @media screen and (max-width: 900px) {
     margin-top: 2rem;
@@ -100,6 +101,8 @@
   justify-content: flex-start;
   align-items: flex-start;
   margin: 1rem 0;
+  background: var(--primary-color);
+  padding: 5px;
 }
 
 .app__skills-exp-works {
